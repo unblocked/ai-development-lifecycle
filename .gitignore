@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+adlc-baseline-*.md
+adlc-baseline-*.json
